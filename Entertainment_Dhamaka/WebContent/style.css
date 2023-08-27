@@ -1,0 +1,17 @@
+
+
+#container{
+    width: 40%;
+    display: grid;
+   justify-content: center;
+  border: 3px yellow solid ;
+  background-color: coral;
+  
+}
+h1{
+    color: rgb(169, 215, 52);
+}
+input{
+    cursor: pointer;
+   border: 3px solid black
+}
